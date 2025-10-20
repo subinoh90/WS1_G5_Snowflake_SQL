@@ -1,0 +1,4 @@
+CampaignID,Name,LaunchDate,Budget,Channel,Status
+SAV2025,Savings Booster Campaign,1/1/2025 23:02,"39,069.00","Email,App",Active
+CC2025,Credit Card Cashback Campaign,10/8/2025 13:32,"56,262.00","SMS,Social",Active
+UPG2025,Membership Upgrade Campaign,9/3/2025,undefined,,Active
